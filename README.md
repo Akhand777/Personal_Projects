@@ -9,29 +9,35 @@ This repository contains four data-related projects, including two Power BI dash
 
 ## Projects
 
-### 1. COVID-19 Real-time Data Dashboard (Power BI)
+### 1. Jarvis Assistent (Python & Tkinter)
+
+- **Description:** Jarvis Voice Assistant is a Python-based, voice-controlled virtual assistant for natural language interaction with your computer, offering features such as web integration, real-time weather updates, and voice responses.
+- **Usage:** arvis Voice Assistant can be used for hands-free computer control, automating tasks, accessing real-time weather information, launching web applications, and experimenting with voice recognition technology for educational purposes.
+
+### 2. COVID-19 Real-time Data Dashboard (Power BI)
 
 - **Description:** This Power BI dashboard provides real-time data on COVID-19 cases, sourced from the MyGov website. It offers visualizations and insights to help users track the pandemic's progression.
 
 - **Usage:** To use this dashboard, download the .pbix file and open it with Power BI Desktop. The data source is automatically updated with the latest information from MyGov.
 
-### 2. Superstore Sales Dashboard (Power BI)
+### 3. Superstore Sales Dashboard (Power BI)
 
 - **Description:** The Superstore Sales Dashboard is a Power BI visualization of sales data for a fictional superstore. It presents key performance indicators (KPIs) and helps in analyzing sales trends.
 
 - **Usage:** Download the .pbix file and open it with Power BI Desktop to explore sales data, filter by various parameters, and gain insights into store performance.
 
-### 3. Netflix Data Analysis (Python)
+### 4. Netflix Data Analysis (Python)
 
 - **Description:** This Python project focuses on analyzing Netflix data using Pandas. It explores the content library, genres, and user ratings to uncover trends and insights.
 
 - **Usage:** Refer to the Jupyter Notebook (.ipynb) file for detailed data analysis and visualizations using Pandas, Matplotlib, and Seaborn. Follow the step-by-step instructions provided.
 
-### 4. Titanic Survival Analysis (Python)
+### 5. Titanic Survival Analysis (Python)
 
 - **Description:** The Titanic Survival Analysis project uses Python libraries to analyze the Titanic dataset. It investigates passenger demographics, factors affecting survival, and generates predictive models.
 
 - **Usage:** Access the Jupyter Notebook (.ipynb) file to see the data analysis process, machine learning models, and conclusions drawn from the Titanic dataset.
+
 
 ## Installation and Usage
 
