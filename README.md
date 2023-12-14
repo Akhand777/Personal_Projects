@@ -33,6 +33,12 @@ This repository contains four data-related projects, including two Power BI dash
 
 - **Usage:** Access the Jupyter Notebook (.ipynb) file to see the data analysis process, machine learning models, and conclusions drawn from the Titanic dataset.
 
+**5. Voice Assistant (Python & Tkinter)**
+
+**Description:** Created a versatile voice-controlled assistant using Python, Tkinter, and various libraries. The assistant, named "Jarvis," responds to voice commands, offers weather updates, plays music, and executes web searches. Designed with a user-friendly interface, it enhances interactivity through speech recognition and synthesis.
+
+**Usage:** Run the Python script to engage with Jarvis. Enjoy functionalities like personalized greetings, real-time weather information, and seamless web navigation. Explore a modern approach to human-computer interaction.
+
 ## Installation and Usage
 
 Each project may have specific installation or usage instructions, so please refer to the respective project folders for detailed information.
