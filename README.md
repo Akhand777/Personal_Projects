@@ -1,9 +1,9 @@
 # Personal_Projects
-Welcome to my GitHub portfolio! I've curated this collection of projects to demonstrate my expertise in data analysis, predictive modeling, and data-driven decision-making. Explore my work to see how I've leveraged various tools and techniques to solve problems and gain valuable insights.
+Welcome to my GitHub portfolio! I've curated this collection of projects to demonstrate my expertise in Python, Data analysis, Predictive modeling, and Data-driven decision-making. Explore my work to see how I've leveraged various tools and techniques to solve problems and gain valuable insights.
 
 ---
 
-# Data Analysis and Power BI Projects
+# Data Analysis, Python and Power BI Projects
 
 This repository contains four data-related projects, including two Power BI dashboards and two data analysis projects using Python libraries (Pandas, NumPy, Matplotlib, Seaborn).
 
